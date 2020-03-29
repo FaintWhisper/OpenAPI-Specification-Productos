@@ -1,5 +1,10 @@
 # Ejercicio de Especificación OpenAPI: API Productos
 
+## Miembros
+Amit Karamchandani Batra
+Rubén García Cid
+Kristian Magjistari Ziu
+
 ## Prerequisitos
 Necesitará tener instalado Docker en su sistema antes de poder probar esta especificación.
 
