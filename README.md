@@ -5,8 +5,11 @@
 - Rubén García Cid
 - Kristian Magjistari Ziu
 
+## Descripción
+Este proyecto recoge la especificación de la API Productos así como los archivos necesarios para construir y montar un contenedor Docker que contendrá un mock server que permitirá al usuario probar dicha API.
+
 ## Prerequisitos
-Necesitará tener instalado Docker en su sistema antes de poder probar esta especificación.
+Necesitará tener instalado [Docker](https://www.docker.com/) en su sistema antes de poder probar esta especificación.
 
 ## Instalación
 Antes de poder probar esta especificación, deberá seguir los siguientes pasos:
