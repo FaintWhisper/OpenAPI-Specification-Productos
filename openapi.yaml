@@ -369,7 +369,7 @@ components:
             $ref: '#/components/schemas/Mensaje'
           example:
             code: 400
-            message: 'Solicitud errónea, el nombre del Producto ya existe.'
+            message: 'Solicitud errónea, el id del Producto ya existe.'
     respuesta404:
       description: Producto no encontrado
       content:
@@ -387,4 +387,4 @@ components:
             $ref: '#/components/schemas/Mensaje'
           example:
             code: 422
-            message: 'Falta el nombre del Producto'
+            message: 'Falta el id del Producto'
