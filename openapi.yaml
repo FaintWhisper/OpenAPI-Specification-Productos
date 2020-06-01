@@ -161,7 +161,7 @@ paths:
             
   '/Productos/query/{query}':
     get:
-      operationId: api_Producto_get_Nombre
+      operationId: api_Producto_get_id
       tags:
         - Búsqueda
       summary: Obtiene los productos buscados
