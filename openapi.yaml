@@ -164,8 +164,8 @@ paths:
       operationId: api_Producto_get_Nombre
       tags:
         - Búsqueda
-      summary: Obtiene un Producto
-      description: Obtiene la información del Producto identificado
+      summary: Obtiene los productos buscados
+      description: Obtiene la información de todos aquellos productos buscados a partir de una consulta
       parameters:
          - $ref: '#/components/parameters/query'
       responses:
